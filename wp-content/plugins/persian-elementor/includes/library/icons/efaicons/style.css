@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'efaicons';
-  src:  url('/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.eot');
-  src:  url('/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.eot#iefix') format('embedded-opentype'),
-    url('/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.woff2') format('woff2'),
-    url('/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.ttf') format('truetype'),
-    url('/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.woff') format('woff'),
-    url('/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.svg#efaicons') format('svg');
+  src:  url('https://noroozis92-sudo.github.io/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.eot');
+  src:  url('https://noroozis92-sudo.github.io/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.eot#iefix') format('embedded-opentype'),
+    url('https://noroozis92-sudo.github.io/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.woff2') format('woff2'),
+    url('https://noroozis92-sudo.github.io/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.ttf') format('truetype'),
+    url('https://noroozis92-sudo.github.io/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.woff') format('woff'),
+    url('https://noroozis92-sudo.github.io/wp-content/plugins/persian-elementor/includes/library/icons/efaicons/fonts/efaicons.svg#efaicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
